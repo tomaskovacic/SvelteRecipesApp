@@ -1,0 +1,25 @@
+html {
+	font-weight: normal;
+	font-family: 'Open Sans';
+  }
+  
+  .summary-wrapper, .details-inner-wrapper, .footer-wrapper, .recipes, .recipes-nav, .breadcrumbs {
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 30px;
+  }
+  
+  body {
+	  padding: 0;
+	  margin: 0;
+  }
+  
+  *,
+  *::before,
+  *::after {
+	box-sizing: border-box;
+	margin: 0;
+	position: relative;
+	font-weight: normal;
+  }
+  
